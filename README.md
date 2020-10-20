@@ -5,3 +5,4 @@
 ## 使用前需替换 mykey  
 可以在这里获得 key ，每天免费调用 1000 次
 https://dev.qweather.com/docs/start/
+## 当前使用的 API 版本为 v7
